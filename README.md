@@ -1,4 +1,4 @@
-# ee3-25
+# ee3-25-Deep-Learning
 
 ## Abstract
 The aim of this coursework is to train a descriptor network
